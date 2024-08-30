@@ -1,5 +1,4 @@
 # handwritten-text-extraction
-# Handwritten Text Extraction
 
 ## Overview
 
